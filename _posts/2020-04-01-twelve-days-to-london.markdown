@@ -13,7 +13,7 @@ An operational simulation inspired by the Prussians' *Strategisches Kriegsspiel*
 
 After initial trials played face-to-face in the classroom, a this is our first play-by-email implementation on a real-time, one-turn-a-day basis.
 
-A full report on the game including all plans, messages and situational pictures is available in German on our [event site](/TDTL2020/).
+A full report on the game including all plans, messages and situational pictures is available in German on our [event site](/tdtl2020/).
 
 
 
