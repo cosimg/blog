@@ -3,7 +3,7 @@ layout: page
 title: The post-mortem – some musings on the ins and outs of discussing Kriegsspiel results with Kriegsspiel participants
 date: 2022-06-02 20:00:00 +0300
 description: In running a wargame of the Prussian Kriegsspiel type there are only a few really important ground rules...
-img: ks_situation01.jpeg#  Add image post (optional)
+img: ks_situation01.jpg  #  Add image post (optional)
 fig-caption:  # Add figcaption (optional)
 tags: [about]
 ---
