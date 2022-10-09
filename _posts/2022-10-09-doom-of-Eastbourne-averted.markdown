@@ -3,7 +3,7 @@ layout: page
 title: The Doom of Eastbourne - Averted!
 date: 2022-10-07 20:00:00 +0300
 description: On October 7, the Conflict Simulation Group (CSG) facilitated an online Kriegsspiel ...
-img: ks_situation01.jpg  #  Add image post (optional)
+img: B.png  #  Add image post (optional)
 fig-caption:  # Add figcaption (optional)
 tags: [about]
 ---
