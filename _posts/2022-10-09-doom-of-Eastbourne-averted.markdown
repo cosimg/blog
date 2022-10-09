@@ -31,7 +31,7 @@ On June, 18, 1883, the French hold a line from St Andrew's School to Boston Hous
 
 The British mission is equally simple. During the night the Royal Navy managed to bring three battalions of Australian volunteer infantry into the city; together with the naval brigade already in Eastbourne they are to attack enemy positions, capture Upperton and decisively defeat the enemy.
 
-![](https://raw.githubusercontent.com/cosimg/research/main/assets/img/Königgrätz.png)
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/B.png)
 
 Eastbourne, Grand Parade (late 19th c. postcard).
 
@@ -45,7 +45,7 @@ Both sides were provided with briefing packs which included intelligence reports
 
 The French team decided to attack on three axes into the city, with the Zouaves battalion pushing from the South along the coast, the first battalion, 71e Régiment, further to the North attacking eastwards and the second battalion, 71e Régiment attacking towards the town hall. The third battalion, 71e Régiment initially served as an operational reserve, and the battalion of armed sailors initially occupied a holding position to the North West of the train station. 
 
-![](https://raw.githubusercontent.com/cosimg/research/main/assets/img/Königgrätz.png)
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/1.png)
 
 Initial dispositions.
 
@@ -55,7 +55,7 @@ The British team, instead of immediately attacking, decided to wait for the firs
 
 Around 0900 French forces started to move. Initially, the Zouaves and the first battalion, 71 Régiment d'Infanterie, met little resistance apart from a few snipers. The leading companies of the second battalion, 71 Régiment d'Infanterie, however ran into the mounted infantry pushing westwards. After a brief firefight resulting in little losses to both sides the mounted infantry gave way and drew back into the park around Comptom Place. There, on the Western edge of the park, they overran the French casualty collection point. While the second battalion, 71 Régiment d'Infanterie continued its attack towards the city centre, the mobile infantry became aware of the French supply station positioned near the pavilion in The Links and attacked it; with mounted infantry in their rear the French became aware of a dangerous situation developing, including a threat to their brigade HQ at Cholmeley House.
 
-![](https://raw.githubusercontent.com/cosimg/research/main/assets/img/Königgrätz.png)
+![](https://raw.githubusercontent.com/blo/research/main/assets/img/2.png)
 
 French Attack.
 
@@ -67,7 +67,7 @@ Meanwhile, the Zouaves had made contact with the British line; the five companie
 
 Thus, north of Carlise Road, first battalion, 71 Régiment d'Infanterie, had punched a hole into the British line, with immediate consequence. For although the French companies were too exhausted to press further into the city, the British decided to pull the armed sailors downwards towards Granville Road and have them form a defensive line along Grassington Road; the sailors had originally been positioned between St Peter's Church and Town Hall and in the way of the developing attack of second battalion, 71 Régiment d'Infanterie. Thus, when second battalion, 71 Régiment d'Infanterie, reached Town Hall, they found little resistance; the area was held by just one company from second battalion, Victoria Rifle Volunteers, which was quickly destroyed. Further to the North, French armed sailors had pushed carefully towards the train station, but ran into resistance around Hartfield Square. Here, British Forces were supported by an armoured train, and after spending some time in positions on the North end of Hartfield Square the armed sailors were pulled back as the armoured train continued to bombard their positions. British reaction to the crisis developing on their southern flank was to pull back first and third battalion, Victoria Rifle Volunteers, to a new perimeter around Central Ward. 
 
-![](https://raw.githubusercontent.com/cosimg/research/main/assets/img/Königgrätz.png)
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/3.png)
 
 The French push into the city.
 
@@ -77,7 +77,7 @@ The tide of battle now seemed to turn decisively against the British. Although t
 
 However, while the French were making headway in the centre and in the North, there were ominous developments behind the first battalion, 71 Régiment d'Infanterie. A rather heavy-handed kintoc response to the civilian population in Meads Ward had the local population rallying around a retired RN captain who then set about to lay siege to the Zouaves HQ which was located in All Saint's Convalescent Hospital. At the same time the French Brigade CO, who had decided to leave his command post to get a better picture of how the attack of the Zouaves developed, experienced first hand that the situation to the rear of the Zouaves was out of control; he had to spend some time hiding in St John's church before being rescued by a small party of cavalrymen. 
 
-![](https://raw.githubusercontent.com/cosimg/research/main/assets/img/Königgrätz.png)
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/4.png)
 
 The British attack.
 
@@ -89,7 +89,7 @@ Heavy fighting now erupted around buildings to the North East of the Hydropathic
 
 In the meantime, the armed sailors had managed to push southwards on Royal Parade and started to occupy Albion and Queen's Hotel. With the pier only 250m away, shots started to ring out, and the torpedo boats moored beside the pier were hits. The French were close to finally fulfilling their primary mission - deying the enemy the use of the pier - when 3 battalion, Victoria Rifle Volunteers, which the British had frantically moved around and sent towards Queen's Hotel, attacked, supported by two companies of Eastbourne volunteers. Outnumbered, the French had to pull back, trying to consolidate themselves around Albion Hotel, but with the Australians preparing for another attack. 
 
-![](https://raw.githubusercontent.com/cosimg/research/main/assets/img/Königgrätz.png)
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/5.png)
 
 The overall situation at the end of the battle.
 
