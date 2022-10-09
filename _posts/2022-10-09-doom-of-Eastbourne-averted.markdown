@@ -55,7 +55,7 @@ The British team, instead of immediately attacking, decided to wait for the firs
 
 Around 0900 French forces started to move. Initially, the Zouaves and the first battalion, 71 Régiment d'Infanterie, met little resistance apart from a few snipers. The leading companies of the second battalion, 71 Régiment d'Infanterie, however ran into the mounted infantry pushing westwards. After a brief firefight resulting in little losses to both sides the mounted infantry gave way and drew back into the park around Comptom Place. There, on the Western edge of the park, they overran the French casualty collection point. While the second battalion, 71 Régiment d'Infanterie continued its attack towards the city centre, the mobile infantry became aware of the French supply station positioned near the pavilion in The Links and attacked it; with mounted infantry in their rear the French became aware of a dangerous situation developing, including a threat to their brigade HQ at Cholmeley House.
 
-![](https://raw.githubusercontent.com/blog/research/main/assets/img/2.png)
+![](https://raw.githubusercontent.com/blog/main/assets/img/2.png)
 
 French Attack.
 
