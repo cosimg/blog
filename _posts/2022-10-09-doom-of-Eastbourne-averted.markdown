@@ -12,11 +12,11 @@ tags: [about]
 
 **Introduction**.
 
-On October 7, the Conflict Simulation Group (CSG) facilitated an online Kriegsspiel hosted by the Georgetown University Wargaming Society; the facilitators used the CSG's version of the Meckel rules; see xxxx for more information. A team of Würzburg students (Red Team - British) was pitted against a transatlantic team (Blue Team - French), and after a rather eventful battle, the British won. Below is a short write-up of the battle.
+On October 7, the Conflict Simulation Group (CSG) facilitated an online Kriegsspiel hosted by the Georgetown University Wargaming Society; the facilitators used the CSG's version of the Meckel rules; see [Conflict Simulation in the Classroom](https://cosimg.github.io/2019/11/02/classroom-simulations.html) for more information. A team of Würzburg students (Red Team - British) was pitted against a transatlantic team (Blue Team - French), and after a rather eventful battle, the British won. Below is a short write-up of the battle.
 
 The facilitators used a a British Ordnance Survey 25in to a mile series map of Eastbourne, an online version of which can be found here (with a powerful zoom function; click on "seamless zoomable overlay layer"):
 
-https://maps.nls.uk/os/25inch-england-and-wales/
+[https://maps.nls.uk/os/25inch-england-and-wales/](https://maps.nls.uk/os/25inch-england-and-wales/)
 
 The topography mentioned below always refers to the map above.
 
