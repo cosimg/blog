@@ -31,7 +31,7 @@ On June, 18, 1883, the French hold a line from St Andrew's School to Boston Hous
 
 The British mission is equally simple. During the night the Royal Navy managed to bring three battalions of Australian volunteer infantry into the city; together with the naval brigade already in Eastbourne they are to attack enemy positions, capture Upperton and decisively defeat the enemy.
 
-![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/B.png)
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/Picture.png)
 
 Eastbourne, Grand Parade (late 19th c. postcard).
 
