@@ -3,7 +3,7 @@ layout: page
 title: The usual collection of brave fools and cynical experts. Role-playing elements in the Prussian Kriegsspiel.
 date: 2022-10-14 20:00:00 +0300
 description: As far as the general setup is concerned ...
-img:  #  Add image post (optional)
+img: Picture2.png #  Add image post (optional)
 fig-caption:  # Add figcaption (optional)
 tags: [about]
 ---
