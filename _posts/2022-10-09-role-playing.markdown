@@ -1,4 +1,14 @@
-"The usual collection of brave fools and cynical experts" - role playing in the Prussian Kriegsspiel
+---
+layout: page
+title: "The usual collection of brave fools and cynical experts" - role playing in the Prussian Kriegsspiel
+date: 2022-10-07 20:00:00 +0300
+description: As far as the general setup is concerned ...
+img: Picture.png  #  Add image post (optional)
+fig-caption:  # Add figcaption (optional)
+tags: [about]
+---
+
+*by Jorit Wintjes*
 
 As far as the general setup is concerned, few simulations as as powerful to depict the fog of war as the Prussian Kriegsspiel. With facilitators representing all levels of command subordinate to the participants, the latter often are confined to giving orders and hoping for the best, which is, of course entirely accurate and depicts both the isolation that comes with command and the crucial difference between command of units operating on the battlefield and the actual leadership of such units. As much as one might want to leave the command tent or bunker and join the fray, the Prussian Kriegsspiel simply does not allow its participants to follow in the footsteps of officers who, while displaying great personal bravery, effectively gave up their command function by joining the action. In doing so, the Kriegsspiel teaches an important lesson in that it confronts the participants with the necessity to trust subordinates to fulfil orders to the best of the latter's capabilities.
 
@@ -12,7 +22,7 @@ Going back to the Kriegsspiel and its facilitators reveals a slightly uncomforta
 
 Are facilitators therefore confined to represent ideal subordinates always trying their best? Well, yes and no. Obviously, facilitators will try hard to run a Kriegsspiel smoothly and without favouring one side or the other. But when it comes to the issue of representing subordinates, role-playing elements can come in handy to provide participants with at least some of the friction interaction with subordinates can cause, and do so in a more or less transparent manner raising no doubts about their impartiality. For the Meckel Kriegsspiel (for a brief description see here) the Conflict Simulation Group always includes very brief biographies of those decision makes the participiants would in reality interact with. Apart from the name information is provided on the military background, prior combat experience, capabilities or lack thereof, the individual character and his leadership abilities; the following two biographies from a recent Kriegsspiel can serve as examples:
 
-[Bilder]
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/Picture.png)
 
 Including biographical information in the briefing material serves two purposes: one, it allows the facilitators a certain latitude in how they execute orders. For example, someone described as an expert tactician might exploit an opportunity that in reality would be obvious to him but is not covered by his orders, while an officer known for being extremely aggressive but tactically average at best might launch a costly frontal attack against an entrenched enemy where a cautious officer might ask back. And two, it adds considerably to the workload of the participants, as they now have to consider the capabilities and limitations of their subordinates as well as the combat strength of their units when assigning missions - just as they would have to do in real life.
 
