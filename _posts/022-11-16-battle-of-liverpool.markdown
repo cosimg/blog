@@ -26,15 +26,15 @@ Initial starting positions.
 
 Information packs were provided two weeks in advance to both teams who then had to prepare plans for the two days. The information packages included detailed OOBs, general scenario information and a large envelope full of patrol reports, intelligence assessments, intercepted enemy communication and the like; for both sides about 50 individual pieces of information were prepared. Unfortunately, due to the malice of the scenario designer (or so the author was told...), the quality of information with regard to precision as well as, uhem, veracity, varied considerable, so the teams not only had to puzzle together the individual pieces but actually assess whether they were reliable or not. To take but two examples, the British team was provided with three precise reports on the location of the French HQ - pointing to three different locations. The French team on the other hand was provided with an intelligence assessment according to which only a weak British volunteer brigade was present on the Wirral Peninsula, a captured British operational plan for a counterattack on the Liverpool map and some mysterious reports about soldiers disembarking in Chester.
 
-[example for information]
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/intel.png)
 
-Three typical intelligence reports - a patrol report, intercepted enemy communication and a picture.
+Three typical intelligence reports - a patrol report, intercepted enemy communication and a picture (in German).
 
 **II. "Everyone has a plan until they get punched in the mouth" - Grand designs on all sides.**
 
 Both plans reflected to some extent how the teams had evaluated the available intelligence. The French team, assuming there were only weak British forces on the Wirral Peninsula, decided to launch a probing attack down the peninsula aiming at - eventually - Chester; the main effort was to be directed against Widnes and Warrington. The British team, deciding it was about to face an infantry division supported by cavalry and artillery, decided to make their attack on the Wirral Pensinsular as strong as possible, reinforcing the division starting there as per the scenario instructions with a powerful cavalry brigade and a mobile infantry brigade.
 
-![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/initial_dispositions_England.png)
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/battle_plans.png)
 
 The respective plans.
 
