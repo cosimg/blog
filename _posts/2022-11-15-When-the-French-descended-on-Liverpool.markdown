@@ -1,7 +1,7 @@
 ---
 layout: page
 title: When the French descended on Liverpool - A large game of Pluie de Balles.
-date: 2022-11-16 20:00:00 +0300
+date: 2022-11-15 20:00:00 +0300
 description: As far as the general setup is concerned ...
 img: Picture2.png  #  Add image post (optional)
 fig-caption:  # Add figcaption (optional)
