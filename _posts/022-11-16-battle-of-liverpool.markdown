@@ -74,19 +74,19 @@ The situation around Birkenhad at the end of day 1.
 
 While the envisaged reinforcements did not appear during the night, a single French infantry regiment actually made it ashore and managed to join the French corps in the early hours of the second day. On the British side, a Canadian brigade, two brigades of Australian infantry and some artillery batteries arrived as reinforcements in Warrington and Earlestown. The French now had to make an important decision: pull out some of the units involved in the previous day's fighting on the Liverpool map in order to reinforce Birkenhead and regain control over the harbour, or push on towards Warrington as quickly as possible. In the end they decided on the latter and only assigned the newly arrived regiment to the Birkenhead bridgehead. Over on the Wirral Peninsula British forces were exerting ever greater pressure onto Birkenhead, and after prolonged fighting and an ultimately futile attempt at reinforcing the garrison they eventually struck their colours. 
 
-[end of birkengead]
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/ituation at French capitulation.png)
 
 The end of Birkenhead.
 
 The French naval brigade had offered stiff resistance and actually hold out significantly longer than the scenario designers had anticipated. By drawing the British into fierce house-to-house fighting they bought those French forces moving towards the Widnes - St Helens as well as the Earlestown - Warrington lines precious time so that they could proceed with their attack. Also, in one of the more heroic - and more absurd - scenes of the weekend, a squadron of French cavalry managed to break out of Birkenhead and made a dash for Chester, where the British corps HQ was located. The British sent a few companies of cyclist infantry in hot pursuit, and for about two hours French cavalry and British cyclists played a deadly game of hide-and-seek on the Wirral peninsula. Eventually, the gallant cavalrymen were overcome, but they had caused British command considerable headache.
 
-[3/12RCC]
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/rench cavalry breaking out of Birkenhead.png)
 
 The French squadron dashing towards glory and the grave.
 
 Thus, Birkenhead was captured, and British engineers soon set about repairing the French pontoon bridge so that British infantry could cross over into Liverpool. Also, both railway guns which so far had done good service on the Wirral Peninsula were now sent to Warrington to support the British defence effort there. However, although the three new brigades had managed to establish a new defensive line around Warrington, it soon bent under heavy French blows, and while the two railway guns tried to reduce French heavy artillery, they were eventually both knocked out. Now with unimpeded firing arcs into Warrington and a spotter balloon up in Widnes, the French could rain destruction onto British forces around Warrington and were by the early afternoon pushing into the city. Around 1600, fighting on the Liverpool map effectively came to an end, as British forces had been almost completely wiped out.
 
-[end map Liverpool]
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/Warriington - fin.png)
 
 The end on the Liverpool map - no British forces in sight.
 
@@ -96,7 +96,7 @@ This undeniably great tactical victory however was bascially negated by the fact
 
 From the umpires' perspective the wargame was successful, not the least so due to the outstanding effort put into it by the participants. Active participation is what makes or breaks large wargames, and while nearly everybody had his share of bad experiences throughout the two days, on the whole the two teams were keeping up remarkably well. Pluie de Balles once again showed its capability of providing a somewhat overwhelming experience - depicting nearly 40,000 foot, 4,000 horse and 180 guns with tokens reprenting companies of 80-100 infantrymen, troops of about 30 cavalrymen and individual artillery pieces, and taking into account tokens representing command, control and combat support elements resulted in more than 1,000 tokens, flags, pennants and markers to be moved around by the participants.
 
-![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/Picture.png)
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/PdB2022.png)
 
 Some of the material involved.
 
