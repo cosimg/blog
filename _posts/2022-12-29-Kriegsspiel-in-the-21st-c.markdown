@@ -11,8 +11,6 @@ tags: [about]
 *by Jorit Wintjes*
 
 
-Kriegsspiel in the 21st c.? And with 19th c. scenarios at that?
-
 **Introduction.**
 
 This brief blog entry covers the question we are probably asked most often - well, on reflection it likely comes a distant second to "What on earth is happening out there?", which is usually uttered with both increasing frequency and mounting dispair during *Kriegsspiele* by the participants - when running *Kriegsspiele* with military decision makers: is there any practical relevance to running 19th c. scenarios in the second decade of the 21st c.? At first, this appears to be a very relevant question. After all, the battlefields of the mid- to late 19th c., where most of CoSimG's *Kriegsspiele* currently take place, where characterised by two-dimensional warfare and thus a far cry from the modern battlespace which extends into dimensions the eye cannot see. So it seems logical to question the usefulness of, for example, cavalry-related knowledge in a world where hills still shake with thunder riven when cavalrymen charge into battle, but where the latter rush their armoured vehicles instead of furiously neighing steeds.
