@@ -1,3 +1,4 @@
+---
 layout: page
 title: The Battle of Hartlepool - A "small" game of Pluie de Balles.
 date: 2023-01-28 20:00:00 +0300
