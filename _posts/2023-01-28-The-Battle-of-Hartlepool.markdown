@@ -11,6 +11,7 @@ tags: [about]
 *by Jorit Wintjes*
 
 **I. Introduction**
+
 In January 2023, the Conflict simulation Group ran a Pluie de Balle wargame with 16 university students. One map of about 2.40m by 3m was used covering the area between Middlesborough, the mouth of the River Tees and the seaside town of Hartlepool. On the map, a blue team of nine students representing a French invasion force, faced stiff opposition by a team of seven students representing a hotch-potch of British units. The French team had an infantry division at its disposal, consisting of two infantry brigades - later supported by another infantry brigade - and four batteries of artillery; also under divisional control was a naval brigade and several batteries of heavy artillery. The French division was further supported by two independent cavalry brigades and a crack navy cyclist unit. On the British side, a crack navy brigade was tasked with defending Hartlepool, the main French objective, together with a brigade of French royalist volunteers, the Queen's French Legion; later, they were further supported by a Canadian brigade. Also, an ad-hoc division made up from a colonial cavalry brigade and an Australian mobile infantry brigade was tasked with falling into the flanks of the attacker and thus disrupting the French attack. 
 
 ![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/force_composition0128.png)
