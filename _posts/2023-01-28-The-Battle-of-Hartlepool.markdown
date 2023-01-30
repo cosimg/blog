@@ -19,7 +19,7 @@ French and British force composition.
 
 While both sides had clear objectives, they also faced considerable challenges. The French infantry division had to move slowly northwards towards Hartlepool from a starting line just north of Middlesborough, and soon it was wary about threats to its left flank. 
 
-![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/2_starting positions.png)
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/2_starting_positions.png)
 
 The overall situation at the beginning of the wargame at c. 1130.
 
