@@ -8,6 +8,8 @@ fig-caption:  # Add figcaption (optional)
 tags: [about]
 ---
 
+*by Jorit Wintjes*
+
 At long last further some additional information on running Sussex Sorrows, Conflict Simulation Group's Meckel Kriegsspiel. Obviously, running Sussex Sorrows involves the use of the rules, published as vol 1 in the [Occasional Papers Series](https://cosimg.github.io/2019/10/30/publications.html); the rules are meant as an aid to the facilitators when running the game. Notes on how to set up a facilitating team can be found [elsewhere in this blog](https://cosimg.github.io/blog/2022/12/15/How-to-run-a-Kriegsspiel.html).
 
 In addition to the rules, good maps, preferrably period ones, should be used, at a scale of about 1/20,000 to 1/25,000. The Conflict Simulation Group usually uses OS One Inch maps, new series, outline edition, which were produced during the last quarter of the 19th c. and are thus contemporary to the scenarios for which Susses Sorrows was originally developed. The best way to access these maps is through the National Library of Scotland, where images of these maps can be found:
@@ -16,7 +18,7 @@ In addition to the rules, good maps, preferrably period ones, should be used, at
 
 Finally, tokens are needed representing forces. It is important to bear in mind that for running  Sussex Sorrows, two sets of tokens are requires - the facilitators use a full set of red and blue tokens, while the participants require one set of their own forces. Design and specific nature of these tokens is really up to personal preference; indeed, Sussex Sorrows could be run by simply writing on the maps, or one might even small-scale miniatures. As the Prussian Kriegsspiel traditionally uses tokens, however, so does the Conflict Simulation Group. 
 
-Two sample sheet can be found below, providing sufficent tokens for a French division reinforced by a cavalry regiment and a British division-type formation consisting of a naval brigade, a volunteer brigade and a volunteer cavalry brigade.
+Two sample sheet can be found below (these are designed to be printed on A4 sheets), providing sufficent tokens for a French division reinforced by a cavalry regiment and a British division-type formation consisting of a naval brigade, a volunteer brigade and a volunteer cavalry brigade.
 
 The French division, in this case 7e Division d'Infanterie, has two infantry brigades on strenth with six regular batallions each; in addition, the first infantry brigade has an experienced batallion chasseur à pied on strength. The divisional artillery consists of four batteries of six 90mm De Bange field guns each, and an experienced cavalry regiment is attached to the division to provide a reconnaissance element. There are individual tokens for the brigade HQs and the division HQ, a telegraph section, a company of engineers and a field hospital.
 
