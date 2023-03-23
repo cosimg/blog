@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Battle of Hartlepool - A "small" game of Pluie de Balles.
+title: CoSimG goes DHd2023.
 date: 2023-01-28 20:00:00 +0300
 description: As far as the general setup is concerned ...
 img: Trier.png  #  Add image post (optional)
