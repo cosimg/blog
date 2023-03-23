@@ -3,7 +3,7 @@ layout: page
 title: The Battle of Hartlepool - A "small" game of Pluie de Balles.
 date: 2023-01-28 20:00:00 +0300
 description: As far as the general setup is concerned ...
-img: 0_header.png  #  Add image post (optional)
+img: Trier.png  #  Add image post (optional)
 fig-caption:  # Add figcaption (optional)
 tags: [about]
 ---
