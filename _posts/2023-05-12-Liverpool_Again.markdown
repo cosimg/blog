@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Liverpool - onc again. Another large game of Pluie de Balles.
+title: Liverpool - once again! Another large game of Pluie de Balles.
 date: 2023-05-12 20:00:00 +0300
 description: As far as the general setup is concerned ...
 img: title2.png  #  Add image post (optional)
@@ -17,7 +17,7 @@ In Mai 2023 the Conflict Simulation Group ran yet another big game of Pluie de B
 The overall setup closely matched that of February this year: a French army corps of two infantry divisions and one cavalry division, supported by a naval brigade and several batteries of heavy artillery faced a British field force of three division-sized units. The French infantry divisions each had two infantry brigades and four batteries of field artillery on strength, the cavalry division two cavalry brigades and four batteries of horse artillery. Two experienced infantry brigades and a brigade of heavy cavalry were available as reinforcements on day two. The three British formations included an infantry division consisting of three infantry brigades, a mobile division including a cavalry brigade and a brigade of mobile infantry, and an ad-hoc division formed around a powerful naval brigade to which a number of smaller volunteer formations were attached. A powerful cavalry brigade and several smaller infantry brigades were scheduled to arrive on the second day. In addition, the French had an immobilised ironclad providing fire support, while British command had several armoured trains and railway guns mounting various heavy artillery pieces at its disposal.
 
 
-![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/AAA_force structure both_new.png)
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/AAA_force_structure_both_new.png)
 
 An overview over French and British force structures.
 
@@ -29,7 +29,7 @@ As usual with this scenario the arrival of the French reinforcements was tied to
 Again the British plan was fairly simple. On the Wirral Peninsula, 5 Division was supposed to ram straight into Birkenhead regardless of casualties in order to tie down the defenders, while the mobile division was to wheel around Birkenhead and to seize the crucial ground near New Brighton as quickly as possible. East of Liverpool, holding a line from Runcorn to Rainhill was the main objective of the ragtag British force which was badly outnummbered, with less than 4,000 infantry facing a force of more than 20,000 infantry. 
 
 
-![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/AAA_battle plans_new.png)
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/AAA_battle_plans_new.png)
 
 British and French starting positions and plans for day 1.
 
