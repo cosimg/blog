@@ -3,7 +3,7 @@ layout: page
 title: CoSimG at the NATO Wargaming Initiative 2023 conference in Rome.
 date: 2023-06-30 20:00:00 +0300
 description: From June 26 to June 28 ...
-img: WIN23.png  #  Add image post (optional)
+img: WIN23_5.png  #  Add image post (optional)
 fig-caption:  # Add figcaption (optional)
 tags: [about]
 ---
