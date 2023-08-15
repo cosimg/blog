@@ -1,0 +1,60 @@
+---
+layout: page
+title: Conflict Simulation Design Workship at DH 2023, Graz
+date: 2023-07-15 20:00:00 +0300
+description: Graz ...
+img: GrazTitel.png  #  Add image post (optional)
+fig-caption:  # Add figcaption (optional)
+tags: [about]
+---
+
+*by Jorit Wintjes*
+
+In July 2023, the international Digital Humanities conference DH2023 was hosted by the University of Graz; on July 11, CoSimG ran a workshop on conflict simulation design. The overall aim of the workshop was to introduce participants to the use of conflict simulations as a didactical tool. After a brief introduction the participants were confronted with a specific historical problem and then tasked with turning this problem into a playable prototype. Participants had to decide how to model topography on a game board, which scale to use, which aspects to include and how - and if at all - to include probabilistic processes. 
+
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/GrazA.png)
+
+*The starter kit.*
+
+For that purpose, the workshop was divided up into six groups of two or three participants each, and each group was provided with a simple starter kit including a number of different dice, counters and tokens. Each group had several hours time to develop, play-test and fine-tune its design, and in the afternoon, each group presented its results in a roundtable session. While the main purpose of the workshop was to introduce participants to the general problem of how to model a complex problem by using simple techniques, the variety of solutions produced for one and the same historical problem was quite fascinating.
+
+But what was that historical problem? For the workshop, the Conflict Simulation Group took to antiquity for a sequence of events from Roman history that, from the little that can be gleaned from the surviving sources, were full of sound and fury. In 267 AD, bands of barbarians (displaying what was presumably a not too insignificant degree of scruffiness), having gained access to sea transport in the Black Sea, managed to penetrate into the Aegean and attacked Greece, plundering Athens in the process. Local resistance then formed and eventually overcome the barbarians; traditionally this has been associated with the Athenian historiographer Dexippus. 
+
+Now, while the idea of a latter-day Thucydides leading Athenians into a desperate fight against barbarians - and succeeding in doing so! - is certainly blockbuster material, recent research unfortunately suggests it was rather unlikely that it the historiographer Dexippus exchanged pen for sword. 
+Whatever the exact circumstances of the eventual defeat of the barbarians, the episode provides an interesting scenario for designing a wargame around it. The two sides involved differ considerably from each other with regard both to character as well as capabilities of their forces and to the overall objectives, with loot and captives playing an important role. In addition to the starter kits, the six groups of participants were provided with a topographical map of Attica and then set about to begin the design process. 
+
+Soon it became apparent that in the six groups very different game concepts began to emerge as each group put emphasis on different factors and used different mechanisms, resulting - unsurprisingly - in six different game concepts.
+
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/GrazB.png)
+
+While the intention was to develop a game pitting Athenians against barbarias, the first group decided to throw this out of the window; instead, they designed a game where two bands of barbarians compete against each other for plunder, whereas the Athenians are run by the game mechanics. The game uses a point-to-point map and a simple dice pool-based combat system. As initially Athenian locals are too powerful to be overcome by one band alone, during the early stages of the game players have to cooperate, until at one point one side has to decide to, well, end that cooperation, to put it mildly, producing interesting game - as well as social - dynamics.
+
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/GrazC.png)
+
+The second group developed a more "traditional" game in the sense that Athenians were facing barbarians. What made this design particularly interesting was a considerable asymmetry in capabilities on both sides, with barbarian units much more mobile - until laden with plunder -, requiring the Athenian player to plan his dispositions carefully. This initial imbalance was somewhat offset by the introduction of Dexippus as a "hero", significantly boosting morale among the Athenians. The group bravely decided to construct a hex grid - and succeeded in doing so! - and used a dice-pool combat system.
+
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/GrazD.png)
+
+The third group also pitted Athenians against barbarians. Here, yet another type of map - showing fields of irregular size following the topography of Attica - was used, while the combat mechanic was card-based (the participants in this case going beyond the material provided in the starter kit). Again there was imbalance built into the scenario as the barbarians did not enter all at once but over several rounds, having a number of starting points to chose from; this made careful planning by the Athenian side necessary in order to meet each threat with sufficient forces.
+
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/GrazE.png)
+
+The fourth group chose yet another type of map, opting for a point-to-point layout. Again Athenians had to face a barbarian onslaught, with the latter initially significantly more powerful but losing capabilities once laden with plunder. The challenge for the Athenian player was to decide when to attack, as plunder would get destroyed during fighting, and preserving as many treasures of ancient Attica as possible was one of the victory conditions for the Athenian side; therefore, waiting until all barbarians were laden with plunder was not a viable option. This made for some interesting - and tough - decisions; the game again used dice-pool based combat mechanics.
+
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/GrazF.png)
+
+The fifth group had a different take on the map as well; after experimenting with fields (which are still shown in the picture) the group eventually decided on using the topographical map as it is and defining movement penalties for certain areas. While in other games plunder could have a significant impact on the forces carrying it, here the gameplay was much more focussed on the two forces fighting it out against each other, with both sides having units of different capabilities. As in the majority of the other games, dice-pool based mechanics were used for combat resolution.
+
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/GrazG.png)
+
+The sixth group opted for a totally different game design. With the overall didactic purpose of the game firmly in mind, a square grid was laid over the map; a set of trivia questions was prepared by the participants (unfortunately not visible in the picture above), and answering these questions then coupled to an area-control game that included clever mechanisms like encircling and blocking one's opponent. While very different from the other games, this design proved to be much more challenging - and fun! - than a simple trivia game, and the underlying principle of combining a map-based area control game with a trivia game certainly offers great possibilities as a didactic instrument.
+
+Overall, running the workshop was a great experience due to the exemplary commitment displayed by all participants. It was fascinating to see the widely differing approaches to one and the same problem, and how the different groups arrived at their solutions all using the same starter kit. CoSimG is also grateful to the organisers of DH2023 for providing the opportunity to run the workshop; hopefully, it has conveyed some of capabilities of conflict simulations and wargames as an educational instrument.
+
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/GrazZ.png)
+
+To end with a small teaser, during the coffee breaks and the lunch break, CoSimG started to work on its newest design, a simple game of counterbattery fire on a 21st c. battlefield. For more on that watch this space!
+
+
+
+
