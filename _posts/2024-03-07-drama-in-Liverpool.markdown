@@ -34,7 +34,7 @@ Pitted against 4e Corps was the Liverpool Field Force, which was built around tw
 
 Both sides made comprehensive and plausible plans. 
 
-![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/PdB_02_2024/9_French_staff_map.png)
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/PdB_02_2024/9_initial_French_staff_map.png)
 
 *fig. 2: French staff map showing initial dispositions.*
 
