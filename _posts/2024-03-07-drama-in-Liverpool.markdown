@@ -16,7 +16,7 @@ February saw another big Pluie de Balles game at Helmut-Schmidt-Universität Ham
 
 This time however there were four key differences which had quite an impact on the overall outcome: first, the Liverpool map was enlarged by about one third, allowing for more room north of St Helens and putting that town more towards the centre of the map; 
 
-![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/PdB_02_2024/0_enlarged map.png)
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/PdB_02_2024/0_enlarged_map.png)
 
 *fig. 1: the enlarged Liverpool map*
 
@@ -54,7 +54,7 @@ The experimental railway brigade was given a special mission: it was to try to p
 
 The British plan, as the staff team had correctly assumed to be facing considerable odds, stressed that day one would be characterized by a bitter struggle for survival. They were - at least initially - confident to hold their positions in Widnes, which was defended by the naval brigade; 1/5 Division, the Australian mobile and two volunteer brigades were orderd to move as quickly as possible from Warrington to positions north of Widnes. The northern flank of the British defensive line was to be guarded by the volunteer cavalry brigade. 
 
-![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/PdB_02_2024/5_British _orces_near_Warrington.png)
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/PdB_02_2024/5_British_orces_near_Warrington.png)
 
 *fig. 5: British positions around Warrington.*
 
