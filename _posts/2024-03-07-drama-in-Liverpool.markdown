@@ -34,9 +34,9 @@ Pitted against 4e Corps was the Liverpool Field Force, which was built around tw
 
 Both sides made comprehensive and plausible plans. 
 
-![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/PdB_02_2024/4_French_positions_around_Birkenhead.png)
+![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/PdB_02_2024/9_French_staff_map.png)
 
-*fig. 2: French forces in Liverpool, cavalry division in the foreground.*
+*fig. 2: French staff map showing initial dispositions.*
 
 The French decided to put one division on the Wirral Peninsula with a defensive mission, holding the krey ground north of Birkenhead which controlled the access to Liverpool harbour, while the bulk of 4e Corps was committed to the Liverpool area, where the other infantry division was to push quickly to Widnes, securing the bridge at Runcornn Gap if possible. 
 
