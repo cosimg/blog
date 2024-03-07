@@ -17,7 +17,6 @@ February saw another big Pluie de Balles game at Helmut-Schmidt-Universität Ham
 This time however there were four key differences which had quite an impact on the overall outcome: first, the Liverpool map was enlarged by about one third, allowing for more room north of St Helens and putting that town more towards the centre of the map; 
 
 ![](https://raw.githubusercontent.com/cosimg/blog/main/assets/img/PdB_02_2024/0_enlarged_map.png)
-
 *fig. 1: the enlarged Liverpool map*
 
 then, managing civilians was one of the challenges force commanders faced. Civilians were represented on the maps with specific tokens, and each side could move them following simple rules; groups of civilians had just one capability - preventing any unites from rapidly moving through them - which made moving them out of the way and off the main axes of advance quite important; thirdly, off-map action was introduced: both teams had to plan their reinforcements by deciding which elements to put into which ship or train, and both sides could allocate assets to intercept enemy reinforcements and guard their own; and finally, to further increase the workload of the staff teams, VIP missions were introduced on the second day, which were designed to throw them slightly off track and force them to allocate ressources to the fulfilment of these missions.
