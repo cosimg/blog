@@ -15,7 +15,7 @@ From September 2 to September 4 the 2023 NATO Wargaming Inititaive took place at
 Instead of a descriptive text, there is a short video that was taken during the game:
 
 <video class="top-video" id="my-video" autoplay loop muted playsinline>
-         <source src="https://raw.githubusercontent.com/cosimg/blog/main/assets/CSG@WIN24_new.mp4" type="video/mp4">
+         <source src="[https://raw.githubusercontent.com/cosimg/blog/main/assets/CSG@WIN24_new.mp4](https://www.dropbox.com/scl/fi/6jl2fpglo125qidlm0ewi/CSG-WIN24_new.mp4?rlkey=8b8eun07d8tw444843pavptmd&st=vie842nt&dl=0)" type="video/mp4">
   </video>
 
 
