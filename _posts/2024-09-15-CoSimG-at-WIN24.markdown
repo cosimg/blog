@@ -14,6 +14,6 @@ From September 2 to September 4 the 2023 NATO Wargaming Inititaive took place at
 
 Instead of a descriptive text, there is a short video that was taken during the game:
 
-<video src='https://www.dropbox.com/scl/fi/6jl2fpglo125qidlm0ewi/CSG-WIN24_new.mp4' width=180/>
+<video src='https://github.com/cosimg/blog/blob/main/assets/Test.mp4' width=180/>
 
 In the end, the blue side prevailed over the red side; even in a fairly short timeslot the Kriegsspiel generated a considerable amount of fog-of-war, giving participants some impression of the capability of the instrument.
