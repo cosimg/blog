@@ -2,7 +2,7 @@
 layout: page
 title: FAQ Pluie de Balles
 date: 2024-11-07 20:00:00 +0300
-description: 
+description: Pluie de Balles FAQ ...
 img: PdBFAQ.png  #  Add image post (optional)
 fig-caption:  # Add figcaption (optional)
 tags: [about]
