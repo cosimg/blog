@@ -1,0 +1,185 @@
+
+layout: page
+title: FAQ Pluie de Balles
+date: 2024-11-07 20:00:00 +0300
+description: 
+img: PdBFAQ.png  #  Add image post (optional)
+fig-caption:  # Add figcaption (optional)
+tags: [about]
+---
+
+*by Jorit Wintjes*
+
+**Pluie de Balles FAQ**
+
+The following FAQ throws additional light on a variety of questions that may arise when using the rules. As the Conflict Simulation Group has made the experience that participants will always try to find new ways of exploiting perceived loopholes in the rules, this page is likely to get updated more often than only occasionally.
+
+**A] General**
+
+**1. Are there elements or units which I do not have to activate?**
+As a general rule, everything in PdB has to be activated. The only elements that can be moved without prior activation are brigade and divisional staff teams.
+
+**2. Can an element undertake the same action twice?**
+YES. If an element has two actions (note that some, like most types of artillery, have only one), it can for example move twice or engage in ranged combat twice in one turn.
+
+----------------------------------------
+
+**B] Movement**
+
+**1. I have successfully activated a battalion. Do I have to throw the dice for movement for each individual company?**
+NO. As a general rule, a throw of one to five D6 (depending on the unit) decides the maximum movement distance for all elements of a unit, in this case for all companies of the battalion.
+
+**2. Do I have to move the maximum movement distance?**
+NO. It is the maximum allowed, but one is free to move less than the maximum movement distance.
+
+**3. Do I have to move all companies in the same direction and over the same distance?**
+NO. Each company can move individually up to the maximum movement distance specified by the throw of one to five D6 (depending on the unit).
+
+**4. Does changing formations take up an action?**
+YES. Note that as a general rule, turning an infantry battalion from a 2x4 into a 4x2 formation takes one action, but extending the formation to 1x8 would require two actions due to the distances involved.
+
+--------------------
+
+C] Communication
+
+**1. What is the difference between the three types of communication elements?**
+MOUNTED communication elements (horse or bicycle) can extend the command range of any command element; they have a command range of 15cm, so when put INSIDE any command element's command range, the extend that element's command range by a further 15cm.
+HELIOGRAPH communication elements (mounted or dismounted) always work in pairs, require an uninterrupted line-of-sight between each other and have to face each other; their range is in theory unlimited, in practice it is limited by topography. Each heliograph element has a command range of 15cm, so any element within that range is considered to be in contact with anything the heliograph element might be linked with.
+TELEGRAPH communication elements (mounted or dismounted) plug into the existing telegraph network and make use of it; their range is in theory unlimited. In order to use telegraph communications at least two - a sender and a receiver - are required. In PdB, telegraph lines are usually assumed to run beside railway lines.
+
+**2. Do communication elements suffer penalties when not in contact with their command elements?**
+NO. Communication elements are always activated with 5, only modifiers for troop quality apply.
+
+**3. Can I use communication elements to fight the enemy?**
+NO. Communication elements do not have a combat capability.
+
+**4. Can I use communication elements from different brigades or divisions to establish communication for my brigade or division?**
+YES. Chains of communication can include communication elements from different brigades or divisions.
+
+**5. Can I use the same line of communication for two (or more) different units?**
+YES. One line of communication can be used for any number of different units.
+
+**6. Can I use command elements to relay information?**
+NO. Only communication elements can relay information and thereby form a chain of communication.
+
+**7. Can I daisy chain mounted communication elements to extend my command range?**
+YES. Note however that neither heliograph elements nor telegraph elements can be used in that way.
+
+**8. Can I use a heliograph element to send information to two different receiving heliograph elements?**
+NO. Heliograph elements ALWAYS work in pairs; any sending heliograph element requires a receiving element of its own.
+
+**9. What is a communications hub?**
+If a chain of communication splits up at one point with one communication element receiving information and several elements - all within 15cm of the receiving element - pass it on into different directions, the resulting concentration of communications elements is called a communications hub in PdB.
+
+**10. Heliograph elements require line of sight. What are typical obstacles making it impossible to establish line of sight and to communicate?**
+Topography (hills, forests etc), villages and urban areas, and friendly and enemy forces.
+
+**11. Can my heliograph elements establish communication through this gap/along this road/through this 6x6in hole in the wall that is most obviously there and visible on a 1/3000 map?**
+Use common sense. If lacking or in doubt, ask the umpire.
+
+--------------------
+
+D] Reaction
+
+**1. Can I already react when my opponent tries to activate his unit?**
+NO. It is not possible to react to activation.
+
+**2. What can I react to?**
+You can react if your opponent moves, fires, turns or changes his combat readiness.
+
+**3. What happens if I fire at my opponent while he tries to make his element combat ready?**
+If a combat element is hit while getting combat ready, it is assumed that it is not already combat ready - which means it is instantly destroyed.
+
+**4. Who can react to enemy actions (fire, movement, turning, combat readiness)?**
+Only those combat elements can react that can actually see the enemy action in question.
+
+**5. When cavalry tries to close assault enemy cavalry from behind, can the enemy cavalry react by means of a reactive retreat?**
+YES. As cavalry combat requires physical contact, it is assumed that the enemy cavalry can decide not to accept close combat and retreat
+
+**6. Can I have my artillery unlimber or limber up as a reaction to enemy fire, movement, turning or combat readiness?**
+NO. Reactive limbering up or unlimbering is not possible in PdB.
+
+**7. Can infantry perform a reactive retreat?**
+NO. Infantry cannot perform a reactive retreat.
+
+**8. Can heliograph teams on foot perform a reactive retreat?**
+NO. Heliograph teams on foot cannot perform a reactive retreat.
+
+**9. Can artillery perform a reactive retreat?**
+NO. Artillery cannot perform a reactive retreat.
+
+**10. Can ships or trains perform a reactive retreat?**
+NO. Ships or trains cannot perform a reactive retreat.
+
+**11. Who can perform a reactive retreat?**
+Cavalry, horse artillery (if limbered up), mobile infantry and mobile communication elements (bicycle or mounted) can perform a reactive retreat.
+
+**12. Can I turn, dismount, mount etc. as a reactive action?**
+NO. Only fire and retreat are allowed as reactive actions.
+
+--------------------
+
+E] Ranged Combat
+
+**1. Do I have to throw the dice for ranged combat for each individual company or artillery piece?**
+YES. In PdB, one has to throw for each individual company, machine gun, artillery piece etc.
+
+**2. Can I fire at an enemy with friendly troops between my artillery and the intended target?**
+NO. A line of sight is required connecting your artillery and the intended target. It is not possible to fire over the heads of friendly infantry (unless one has a system capable of indirect fire), nor is it possible to have infantry lie down.
+
+**3. Can I fire at an enemy with friendly troops between my artillery and the intended target when my artillery is positioned higher than friendly troops?
+YES. Overshooting friendly units is possible; usually, a difference of two contour lines is required. When in doubt, common sense should be applied; if there is want of the latter, the umpire will decide.**
+
+**4. How often can an artillery piece fire?**
+Light artillery as well as horse artillery fires once per action, for a maximum of two shots per turn (light artillery and horse artillery have two actions!). 
+Field artillery fires twice per action, for a maximum of two shots per turn (field artillery has one action!). 
+Heavy artillery fires once per action, for a maximum of one shot per turn (heavy artillery has one action!). 
+Superheavy artillery fires once per action, for a maximum of one shot per turn, or as detailed in the data tables (superheavy artillery has one action!).
+
+**5. Can I turn a gun slightly without taking up an action?**
+NO. Turning a gun always requires an action. Note that turning a superheavy artillery piece requires 6 turns, as the emplacement has to be adjusted.
+
+**6. Can limbers defend themselves using sidearms?**
+YES, but only if the gun, which is normally supported by the limber, has already been destroyed.
+
+**7.Who can use sidearms?**
+Only limbers and staff teams can use sidearms; note that limbers can use sidearms only reactively, and only if the gun, which is normally supported by the limber, has already been destroyed.
+
+**8. How many hits can communications elements and staff teams take?**
+NONE. Communication elements and staff teams are instantly destroyed when hit.
+
+**9. What is the difference between "cover" and "buildings"?**
+"Cover" are trees, bushes and the like; "buildings" are exactly that, as shown on the map. Again common sense is important here - a small hovel is clearly unsuitable for a company of 100 men. 
+
+**10. How does street fighting work?**
+Once combat has reached densely built-up areas normally only close combat is possible, requiring force elements to get into physical contact with each other. Note however that when crossing a street in order to close assault a line of houses on the other side of the streets, the defenders can open fire reactively.
+
+--------------------
+
+**F] Trains**
+
+**1. How many actions does an armoured train have?**
+There are two types of armoured trains in PdB - standard and heavy. Standard armoured trains have two actions and can "scoot and shoot" or vice versa, heavy armoured trains have only one action; heavy armoured trains are those mounting a heavy or superheavy gun.
+
+**2. How many hits can an armoured train take?**
+None. When hit, an armoured train is instantly destroyed. Note however that each individual element has to be destroyed; in theory, if the front waggon is destroyed, one could still try to move the engine back to safety.
+
+--------------------
+
+**G] Ambulances, field hospitals and group of civilians**
+
+**1. Is it possible to actively target ambulances, field hospitals and civilians?**
+YES. However, in the context of late 19th c. warfare, this is seen as seriously dishonourable; depending on the scenario such a conduct will usually have some sort of fallout determined by the umpires.
+
+**2. What happens if an ambulance, field hospital or group of civilians is accidentally hit by indirect fire?**
+They count as instantly destroyed. As it has to be presumed that hitting them was unintentional, umpires will usually refrain from thinking about additional, colourful consequences.
+
+----------------------------------------
+
+**H] Other**
+
+**1. Is it possible to halt the game for a coffee/lunch/toilet break?**
+Generally speaking NO. One key point of Pluie de Balles is that it is intended to put participants under stress, and the need to stay focussed for hours on end is part of that. Of course, if needs are pressing, individual participants can leave the map, but as the game will continue, they invariably add to the workload of their own side; as a result, the incentive to return to one's side as quickly as possible is usually quite high.
+
+**2. Why is everyone so mean to me?**
+While a basic level of professional behavious is expected from participants (victory dances are generally frowned upon, as is shouting a bodycount or throwing dice across the room in frustration), Pluie de Balles is fundamentally a competitive wargame, so a certain degree of aggressiveness on both sides is to be expected. For limited amounts of empathy one can usually turn to the umpires.
