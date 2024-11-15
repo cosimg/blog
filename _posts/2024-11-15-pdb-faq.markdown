@@ -46,7 +46,7 @@ YES. Note that as a general rule, turning an infantry battalion from a 2x4 into 
 
 --------------------
 
-C] Communication
+**C] Communication**
 
 **1. What is the difference between the three types of communication elements?**
 
