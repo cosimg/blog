@@ -10,7 +10,7 @@ tags: [about]
 
 *by Jorit Wintjes*
 
-**Pluie de Balles FAQ**
+**FAQ Pluie de Balles - version: November 2024**
 
 The following FAQ throws additional light on a variety of questions that may arise when using the rules. As the Conflict Simulation Group has made the experience that participants will always try to find new ways of exploiting perceived loopholes in the rules, this page is likely to get updated more often than only occasionally.
 
