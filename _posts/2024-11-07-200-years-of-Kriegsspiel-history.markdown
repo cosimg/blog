@@ -3,7 +3,7 @@ layout: page
 title: 200 years of Kriegsspiel history - lessons to be learned?
 date: 2024-11-07 20:00:00 +0300
 description: 
-img: IMG_0975(2).png  #  Add image post (optional)
+img: KriegsspielHeader.png  #  Add image post (optional)
 fig-caption:  # Add figcaption (optional)
 tags: [about]
 ---
