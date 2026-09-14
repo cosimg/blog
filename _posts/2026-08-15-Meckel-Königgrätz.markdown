@@ -16,7 +16,7 @@ For the 160th anniversary of the Battle of Königgrätz Austrian television prod
 
 The documentary (in German) can be found here:
 
-[https://www.arte.tv/de/videos/123937-000-A/habsburg-gegen-hohenzollern/][https://www.arte.tv/de/videos/123937-000-A/habsburg-gegen-hohenzollern/)
+[https://www.arte.tv/de/videos/123937-000-A/habsburg-gegen-hohenzollern/](https://www.arte.tv/de/videos/123937-000-A/habsburg-gegen-hohenzollern/)
 
 The section on the Kriegsspiel starts at 41:00.
 
